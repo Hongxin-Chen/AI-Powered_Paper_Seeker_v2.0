@@ -1,4 +1,4 @@
-# 🔬 AI Paper Searcher
+# 🔬 AI-Powered Paper Seeker
 
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://streamlit.io/)
 [![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -125,18 +125,5 @@ urllib3>=2.0.0
 - **光学**: physics.optics, eess.IV, physics.app-ph, cond-mat.mtrl-sci, quant-ph
 - **计算机科学**: cs.AI, cs.LG, cs.CV, cs.CL, cs.NE, stat.ML
 
-## 🤝 贡献
 
-欢迎提交 Issue 和 Pull Request！
 
-## 📄 许可证
-
-MIT License
-
-## 📧 联系方式
-
-如有问题或建议，欢迎通过 GitHub Issues 联系。
-
----
-
-**注意**: 使用本工具需要有效的 DeepSeek API Key。请确保遵守 arXiv 和 DeepSeek 的使用条款。
