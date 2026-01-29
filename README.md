@@ -206,6 +206,12 @@ plotly>=5.0.0
 
 ## 🎨 界面截图
 
+<img width="2800" height="1496" alt="image" src="https://github.com/user-attachments/assets/dd5d609e-b33d-445d-8a62-b03abe60063b" />
+<img width="2818" height="1226" alt="image" src="https://github.com/user-attachments/assets/e5e8b698-f924-4d15-bedb-081b50a78eee" />
+<img width="2866" height="1486" alt="image" src="https://github.com/user-attachments/assets/74dfd443-8504-4d7f-a1b3-4ac64aeffc5e" />
+
+
+
 *界面包含三个主要 Tab：*
 - 🔥 arXiv 今日速递（带饼图和精选）
 - 🏆 顶刊近一周（实时监控）
