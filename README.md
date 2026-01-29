@@ -5,7 +5,7 @@
 [![DeepSeek](https://img.shields.io/badge/DeepSeek-API-blue?style=for-the-badge)](https://www.deepseek.com/)
 [![arXiv](https://img.shields.io/badge/arXiv-Data-B31B1B?style=for-the-badge)](https://arxiv.org/)
 
-基于 AI 的学术论文智能搜索与分析工具，整合 arXiv 预印本库与 Semantic Scholar API，结合 DeepSeek V3 大语言模型，为学术研究人员提供三种智能化检索模式。
+基于 AI 的学术论文智能搜索与分析工具，整合 arXiv 预印本库与 Semantic Scholar API，结合 DeepSeek V3 大语言模型，为学术研究人员提供三种智能化检索模式。(deployed at "https://paperseekerchx.streamlit.app/")
 
 ## ✨ 核心功能
 
